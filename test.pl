@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # MASTER!!
+# -- M --
 use strict;
 use warnings;
 
